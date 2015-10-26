@@ -3,3 +3,6 @@ This is a simple application that shows the use of custom Adapter for ListView a
 
 
 ![Application Screenshot](https://github.com/rohitsthaa/CustomListView/raw/master/device-2015-10-26-140806.png)
+
+
+This Samples show how to use CustomAdapter to show item on listview differently (different layout).
